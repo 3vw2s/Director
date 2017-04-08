@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Componets">
+      <UniqueIdentifier>{401921de-8db1-44f0-a85a-c4cbed3ffa4f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\src\Componets\SocketComponet.cpp">
+      <Filter>Componets</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\src\main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\src\Componets\SocketComponet.h">
+      <Filter>Componets</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
