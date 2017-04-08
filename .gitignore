@@ -29,3 +29,11 @@
 *.app
 #empty directory
 *.gitkeep
+
+#vs
+.VC.VC.opendb
+.VC.db
+.vs
+
+#project
+win32/Director_MSVC14/Director_MSVC14/Debug
