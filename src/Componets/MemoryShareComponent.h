@@ -1,1 +1,6 @@
-#pragma once
+#ifndef DIRECTOR_COMPONENT_MEMORY_SHARE
+#	define DIRECTOR_COMPONENT_MEMORY_SHARE
+
+
+
+#endif
