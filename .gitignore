@@ -29,8 +29,8 @@
 *.gitkeep
 
 #vs
-.VC.VC.opendb
-.VC.db
+.opendb
+.db
 .vs
 
 #project
