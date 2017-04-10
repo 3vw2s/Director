@@ -24,6 +24,7 @@
     <ClCompile Include="..\..\..\src\main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\src\Actor\Actor.h" />
     <ClInclude Include="..\..\..\src\Componets\Component.h" />
     <ClInclude Include="..\..\..\src\Componets\MemoryShareComponent.h" />
     <ClInclude Include="..\..\..\src\Componets\SocketComponent.h" />

@@ -4,6 +4,9 @@
     <Filter Include="Components">
       <UniqueIdentifier>{401921de-8db1-44f0-a85a-c4cbed3ffa4f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Actor">
+      <UniqueIdentifier>{58be68c2-8ea8-4dec-9409-cbde9a8fe580}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\src\main.cpp" />
@@ -23,6 +26,9 @@
     </ClInclude>
     <ClInclude Include="..\..\..\src\Componets\Component.h">
       <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\src\Actor\Actor.h">
+      <Filter>Actor</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
